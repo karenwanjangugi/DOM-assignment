@@ -16,7 +16,7 @@ p{
 
 h3{
     text-decoration: underline;
-    text-align: center;
+    /* text-align: center; */
 }
 ul{
     text-align: center;
