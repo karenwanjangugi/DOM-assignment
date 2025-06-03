@@ -1,0 +1,30 @@
+#title{
+    text-align: center;
+}
+
+p{
+    font-weight: 700;
+    font-size: 30px;
+}
+
+h3{
+    text-decoration: underline;
+}
+#image{
+    height: 200px;
+    width: 200px;
+    
+}
+#fruits{
+    display: flex;
+}
+#fruList{
+    display: flex;
+    gap: 150px;
+    list-style-type: none;
+}
+#vegList{
+    display: flex;
+    gap: 150px;
+    list-style-type: none;
+}
