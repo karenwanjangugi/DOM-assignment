@@ -26,7 +26,7 @@ const headings = document.querySelectorAll('h3');
  fruitList.appendChild(newFruit)
  
  const img1 = document.createElement('img');
- img1.src = 'orange.jpeg'
+ img1.src = 'Images/orange.jpeg'
  img1.height = 200
  img1.width = 200
  img1.style.marginTop = '50px'
@@ -46,7 +46,7 @@ const headings = document.querySelectorAll('h3');
  vegList.appendChild(newVeggie)
 
  const img = document.createElement('img')
- img.src = 'cabbage.webp'
+ img.src = 'Images/cabbage.webp'
  img.height = 200
  img.width = 200
  img.style.display = 'grid'
